@@ -1,16 +1,17 @@
-h1 {    
-    background-color: #851944;
-    color: #FFF;
-    text-align: center;
-}
-
 body {
     font-family: "Crimson Text", "Times New Roman", serif;
     background-color: #F2FFFC;
     font-size: 120%;
 }
 
-h1, h2 {
+main h1 {    
+    background-color: #851944;
+    color: #FFF;
+    text-align: center;
+    font-family: "Open Sans Condensed", "Arial", sans-serif;
+}
+
+h2 {
     font-family: "Open Sans Condensed", "Arial", sans-serif;
 }
 
